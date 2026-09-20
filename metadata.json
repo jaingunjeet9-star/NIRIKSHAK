@@ -1,0 +1,10 @@
+{
+  "name": "NIRIKSHAK — Statutory Label & Metrology Verifier",
+  "description": "Intelligent Packaged Commodity Compliance & Inspection Platform under Legal Metrology (Packaged Commodities) Rules 2011, The Seeds Act 1966, and Fertilizer Control Order 1985.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
